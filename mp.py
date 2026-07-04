@@ -1,0 +1,2 @@
+class manoj:
+    print('gcg')
